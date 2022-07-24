@@ -88,3 +88,5 @@ let reduceResults2 = dummy.reduce(function (acc, curr, i, arr) {
   return acc;
 }, {});
 console.log(reduceResults2);
+
+// demo
